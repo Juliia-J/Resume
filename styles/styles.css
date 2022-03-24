@@ -17,10 +17,10 @@ body {
 .main-content {
   background-color: #fff;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-  padding: 100px 90px;
+  padding: 60px 90px;
 }
 .about {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 .about-position {
@@ -47,7 +47,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
-  width: 400px;
+  width: 600px;
 }
 
 /* project styles */
